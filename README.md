@@ -2,13 +2,10 @@ Welcome to Aeropawstale!
 
 Features: 
   1. Create User Account.
-  2. Update Account. 
-  3. View Produccts: All, Dog, Cat
-  4. Add to Cart/Remove from Cart
-  5. Check Out
-  6. View Orders
-
-
 
 https://user-images.githubusercontent.com/91211845/234102416-94467c32-f985-48a1-ae33-ccfb4d4d3897.mp4
+
+  2. Update Account
+ 
+https://user-images.githubusercontent.com/91211845/234133836-eb5928d3-c3fe-47c4-9c61-f90da0d56e24.mp4
 
