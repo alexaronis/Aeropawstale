@@ -12,3 +12,8 @@ https://user-images.githubusercontent.com/91211845/234133836-eb5928d3-c3fe-47c4-
   3. View Products, Product Description, View Similar Products, and Add to Cart
 
 https://user-images.githubusercontent.com/91211845/234139109-d113a965-3e00-4af4-a58e-bbb19a23affb.mp4
+
+  4. Update Car, and Remove from Cart
+
+https://user-images.githubusercontent.com/91211845/234318785-d399887e-89a3-45f8-85d8-12885667495b.mp4
+
